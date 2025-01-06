@@ -14,6 +14,11 @@ epoch = 2.5
 path = 'contracts/quantum-energy-marketplace.clar'
 clarity_version = 2
 epoch = 2.5
+
+[contracts.vacuum-energy-nft]
+path = 'contracts/vacuum-energy-nft.clar'
+clarity_version = 2
+epoch = 2.5
 [repl.analysis]
 passes = ['check_checker']
 

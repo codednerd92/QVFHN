@@ -5,3 +5,5 @@ Z
 *contracts/quantum-detector-management.clar,f/9/f90c4d8acaee403baa83f4548474faf0342da7b9
 Y
 )contracts/quantum-energy-marketplace.clar,d/3/d321ec0d0d54bf9a844dcdafb93e56c122f87248
+P
+ contracts/vacuum-energy-nft.clar,0/2/0239fbdb65d9abf53a1f73b056864f59b3bdd496
